@@ -1,18 +1,63 @@
-# 💫 About Me:
-Sou estudante de Ciência da Computação na Universidade Estadual de Santa Cruz (UESC) e técnica em Desenvolvimento de Sistemas pelo SENAI. Gosto de aprender construindo: de aplicativos com IA e soluções de backend a projetos com Arduino.<br><br>Minha trajetória inclui hackathons, iniciação científica, extensão universitária e participação no EmbarcaTech. Atualmente, aprofundo meus estudos em Inteligência Artificial e LLMs e busco uma oportunidade de estágio em desenvolvimento de software com foco em IA.
+<div data-importer="image" align="center">
+  <img data-importer="image" height="173" src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amanda-c-lopes/) 
+<br clear="both">
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=@4mandaCardoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=@4mandaCardoso&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=@4mandaCardoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 data-importer="text" align="center">Amanda Cardoso</h1>
 
----
-[![](https://komarev.com/ghpvc/?username=@4mandaCardoso&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=4mandaCardoso.4mandaCardoso&left_color=purple&right_color=deeppink"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/amanda-c-lopes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="amandacardoso8212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h4 data-importer="text" align="center">Sou estudante de Ciência da Computação na Universidade Estadual de Santa Cruz (UESC) e técnica em Desenvolvimento de Sistemas pelo SENAI. Gosto de aprender construindo: de aplicativos com IA e soluções de backend a projetos com Arduino.<br><br>Minha trajetória inclui hackathons, iniciação científica, extensão universitária e participação no EmbarcaTech. Atualmente, aprofundo meus estudos em Inteligência Artificial e LLMs.</h4>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/4mandaCardoso/4mandaCardoso/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/4mandaCardoso/4mandaCardoso/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="34" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="34" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="34" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="34" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="34" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="34" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="34" alt="python logo"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=117&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=57&fontAlignY=58&stroke=-&animation=twinkling&descSize=35&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
