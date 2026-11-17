@@ -23,14 +23,11 @@
   <a href="https://www.linkedin.com/in/amanda-c-lopes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="amandacardoso8212@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
 
-<h4 data-importer="text" align="center">Sou estudante de Ciência da Computação na Universidade Estadual de Santa Cruz (UESC) e técnica em Desenvolvimento de Sistemas pelo SENAI. Gosto de aprender construindo: de aplicativos com IA e soluções de backend a projetos com Arduino.<br><br>Minha trajetória inclui hackathons, iniciação científica, extensão universitária e participação no EmbarcaTech. Atualmente, aprofundo meus estudos em Inteligência Artificial e LLMs.</h4>
+<h3 data-importer="text" align="center">Sou estudante de Ciência da Computação na Universidade Estadual de Santa Cruz (UESC) e técnica em Desenvolvimento de Sistemas pelo SENAI. Gosto de aprender construindo: de aplicativos com IA e soluções de backend a projetos com Arduino.<br><br>Minha trajetória inclui hackathons, iniciação científica, extensão universitária e participação no EmbarcaTech. Atualmente, aprofundo meus estudos em Inteligência Artificial e LLMs.</h3>
 
 ###
 
